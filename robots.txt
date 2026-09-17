@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yongkiwahyu.github.io/Sppg/sitemap.xml
