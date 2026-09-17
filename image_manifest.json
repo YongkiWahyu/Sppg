@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "filename": "menu-nasi-ayam-sayur-buah.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1600227/2026-09-17/wtztoeqcak6q/menu-nasi-ayam-sayur-buah.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1600227/2026-09-17/wtztoeqcak6q/menu-nasi-ayam-sayur-buah.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1600227/2026-09-17/wtztoeqcak6q/menu-nasi-ayam-sayur-buah.png"
+    },
+    {
+      "status": "success",
+      "filename": "menu-ikan-tahu-sup-buah.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1600227/2026-09-17/wtztorqcalba/menu-ikan-tahu-sup-buah.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1600227/2026-09-17/wtztorqcalba/menu-ikan-tahu-sup-buah.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1600227/2026-09-17/wtztorqcalba/menu-ikan-tahu-sup-buah.png"
+    }
+  ],
+  "success_count": 2,
+  "failed_count": 0,
+  "running_count": 0,
+  "message": "Generated 2/2 images total"
+}
