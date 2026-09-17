@@ -32,7 +32,7 @@ const App = () => (
     {/* MODULE_PROVIDERS_END */}
     <TooltipProvider>
       <Toaster />
-      <BrowserRouter>
+      <BrowserRouter basename="/Sppg">
         <AppRoutes />
       </BrowserRouter>
     </TooltipProvider>

@@ -74,9 +74,9 @@ export default function AdminMenu() {
   }
 
   function logout() {
-    sessionStorage.removeItem(AUTH_KEY);
-    navigate("/admin/login");
-  }
+  sessionStorage.removeItem(AUTH_KEY);
+  navigate("/admin");
+}
 
   function openAddForm() {
     setFormError("");
